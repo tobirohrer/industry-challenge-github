@@ -14,9 +14,26 @@ The decentralized expansion of renewable energies is an important pillar on the 
 2. If you did not attend the Kick-Off, contact us
 3. Start developing your forecasting algorithm
 4. Train your algorithm using [train.csv](train.csv) 
-5. Create a solution submission by forecasting the required data from [test.csv](test.csv)
-6. Send us your solution :)
 
-## Price
+
+## How to Submit
+
+1. Create a solution submission by forecasting the required data from [test.csv](test.csv)
+2. Send us your solution :)
+
+## Prizes
 
 We will give away prices at the end of the competition
+
+## Timeline
+
+- Challenge Kickoff 15.12.2022
+- Challenge End X
+
+## Data Description
+
+bliblablub
+
+## Evaluation Criteria
+
+root mean squared error...
